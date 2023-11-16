@@ -2,12 +2,12 @@
 ## The Challenge
 This project involves the creation of a customer banking system that will allow
 the end user to calculate and track balance and earned interest in their
-savings and cd accounts. The user will be first promtped to enter their starting
-balance for their savings account, then enter the interst rate for savings
-account, then to provide the sesied maturity period to calculate the earned
+savings and cd accounts. The user will be first prompted to enter the starting
+balance of their savings account, then enter the interest rate for savings
+account, then to provide the desired maturity period to calculate the earned
 interest. This system will return the customer's updated balance and earned
 interest for the given maturity period with values calculated to the two
-decimla places and the thousandths. The above process will be repeated for
+decimal places and the thousandths. The above process will be repeated for
 customer's cd account.
 ## Getting Started
 Before starting this assignment, make sure the user has a GitHub account, and 
@@ -89,6 +89,7 @@ course downloads, the four project starter files are: "Account.py",
 
 A sample of the output after calling the main function can be seen in the image
 immediately following: 
+
 ![Module-3-Challenge-sample-output](https://github.com/RAC-Git-Hub/customer_banking/blob/main/Module-3-Challenge-sample-output.png)
 ## Sources
 The starter codes were obtained in November 2023 from the instructional staff of
