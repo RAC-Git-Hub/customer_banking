@@ -6,9 +6,9 @@ savings and cd accounts. The user will be first prompted to enter the starting
 balance of their savings account, then enter the interest rate for savings
 account, then to provide the desired maturity period to calculate the earned
 interest. This system will return the customer's updated balance and earned
-interest for the given maturity period with values calculated to the two
-decimal places and the thousandths. The above process will be repeated for
-customer's cd account.
+interest for the given maturity period with values calculated to two decimal
+places and the thousandths. The above process will be repeated for customer's cd
+account.
 ## Getting Started
 Before starting this assignment, make sure the user has a GitHub account, and 
 also VS Code or similar IDE that can run Python 3.10 installed on the user's
