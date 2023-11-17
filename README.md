@@ -7,8 +7,8 @@ balance of their savings account, then enter the interest rate for savings
 account, then to provide the desired maturity period to calculate the earned
 interest. This system will return the customer's updated balance and earned
 interest for the given maturity period with values calculated to two decimal
-places and the thousandths. The above process will be repeated for customer's cd
-account.
+places and the thousandths. The above process will be repeated for the 
+customer's cd account.
 ## Getting Started
 Before starting this assignment, make sure the user has a GitHub account, and 
 also VS Code or similar IDE that can run Python 3.10 installed on the user's
@@ -87,8 +87,8 @@ course downloads, the four project starter files are: "Account.py",
 >     earned for the given months.
 >   - Call the main function.
 
-A sample of the output after calling the main function can be seen in the image
-immediately following: 
+A sample of the output of steps taken can be seen in the image immediately
+following: 
 
 ![Module-3-Challenge-sample-output](https://github.com/RAC-Git-Hub/customer_banking/blob/main/Module-3-Challenge-sample-output.png)
 ## Sources
